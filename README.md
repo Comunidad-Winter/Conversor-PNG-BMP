@@ -1,5 +1,5 @@
-#Conversor-PNG-BMP
+# Conversor-PNG-BMP
 
-##Imagenes
+## Imagenes
 
 ![image](https://github.com/user-attachments/assets/0fe730fe-81a1-48fb-b18d-fc89e6616040)
